@@ -6,13 +6,6 @@ body {
    background-size: coFFFFFF
  }
 
-.container {
-   position: absolute;
-   top: 50%;
-   left: 50%;
-   transform: translate(-50%, -50%);
-}
-
 @keyframes fadein{
     from{opacity:0;}
     to{opacity:1;}
